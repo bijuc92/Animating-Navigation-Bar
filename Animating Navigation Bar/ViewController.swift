@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         self.tableView.estimatedRowHeight = 500
         self.tableView.delegate = self
         navigationBarWith(title: "Navigation Title")
-        
+        //test commit
     }
 
     override func didReceiveMemoryWarning() {
