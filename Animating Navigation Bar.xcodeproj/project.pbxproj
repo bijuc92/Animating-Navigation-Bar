@@ -16,6 +16,7 @@
 		1366AF2E1E41AA19005A9518 /* Animating_Navigation_BarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1366AF2D1E41AA19005A9518 /* Animating_Navigation_BarTests.swift */; };
 		1366AF391E41AA19005A9518 /* Animating_Navigation_BarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1366AF381E41AA19005A9518 /* Animating_Navigation_BarUITests.swift */; };
 		1366AF491E41B1A0005A9518 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1366AF481E41B1A0005A9518 /* TableViewCell.swift */; };
+		13C7A6071E729F2700510491 /* AnimatingNavigationBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13C7A6061E729F2700510491 /* AnimatingNavigationBarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		1366AF381E41AA19005A9518 /* Animating_Navigation_BarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animating_Navigation_BarUITests.swift; sourceTree = "<group>"; };
 		1366AF3A1E41AA19005A9518 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1366AF481E41B1A0005A9518 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		13C7A6061E729F2700510491 /* AnimatingNavigationBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatingNavigationBarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				1366AF151E41AA19005A9518 /* AppDelegate.swift */,
 				1366AF171E41AA19005A9518 /* ViewController.swift */,
 				1366AF481E41B1A0005A9518 /* TableViewCell.swift */,
+				13C7A6061E729F2700510491 /* AnimatingNavigationBarViewController.swift */,
 				1366AF191E41AA19005A9518 /* Main.storyboard */,
 				1366AF1F1E41AA19005A9518 /* Assets.xcassets */,
 				1366AF211E41AA19005A9518 /* LaunchScreen.storyboard */,
@@ -272,6 +275,7 @@
 				1366AF1E1E41AA19005A9518 /* Animating_Navigation_Bar.xcdatamodeld in Sources */,
 				1366AF181E41AA19005A9518 /* ViewController.swift in Sources */,
 				1366AF161E41AA19005A9518 /* AppDelegate.swift in Sources */,
+				13C7A6071E729F2700510491 /* AnimatingNavigationBarViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -524,6 +528,7 @@
 				1366AF3F1E41AA19005A9518 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1366AF401E41AA19005A9518 /* Build configuration list for PBXNativeTarget "Animating Navigation BarTests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +537,7 @@
 				1366AF421E41AA19005A9518 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1366AF431E41AA19005A9518 /* Build configuration list for PBXNativeTarget "Animating Navigation BarUITests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +546,7 @@
 				1366AF451E41AA19005A9518 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
